@@ -36,7 +36,7 @@ Building high-performance web and mobile applications with a focus on clean arch
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Active_Building-7289DA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open_For-Client_Work-5865F2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Remote-404EED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-United States-404EED?style=for-the-badge" />
 </p>
 
 > **Note:** Most of my current engineering work is hosted in private repositories for clients. Check out [justnight.xyz](https://justnight.xyz) for my latest live deployments.
