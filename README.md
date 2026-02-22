@@ -1,7 +1,7 @@
 # 🪐 justnight
 
 ### Software Engineer • Full-Stack Developer • AI Solutions
-Building high-performance web and mobile applications with a focus on clean architecture and OpenAI integrations. Currently engineering bespoke digital solutions for private clients.
+Building high-performance web and mobile applications with a focus on clean architecture and OpenAI integrations. Currently working on client projects!
 
 [**justnight.xyz**](https://justnight.xyz)
 
@@ -9,9 +9,9 @@ Building high-performance web and mobile applications with a focus on clean arch
 
 ### 🚀 Active Projects
 
-* **Client Engineering:** Developing bespoke, high-performance web platforms for private clients.
-* **Scarify:** Architecting a high-speed QR ecosystem with a custom scanner and generator.
-* **OpenAI Events:** Actively building and integrating advanced AI solutions in community-driven events.
+* **Client Engineering:** Developing web platforms for private clients.
+* **Scarify:** Fast QR code generator, with a custom scanner and customization.
+* **OpenAI Events:** Actively building and integrating advanced AI solutions in public OpenAI events.
 * **Utility Suite:** Engineering tools for security and productivity, including:
     * **Security:** Password strength analysis and "Have I Been Pwned" integration.
     * **AI:** Stealth GPT implementation and custom automation.
