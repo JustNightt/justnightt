@@ -1,20 +1,20 @@
 # 🪐 justnight
 
 ### Software Engineer • Full-Stack Developer • AI Solutions
-I build high-performance web and mobile applications, specializing in OpenAI integrations and custom client platforms. My focus is on clean architecture and seamless user experiences.
+Building high-performance web and mobile applications with a focus on clean architecture and OpenAI integrations. Currently engineering bespoke digital solutions for private clients.
 
 [**justnight.xyz**](https://justnight.xyz)
 
 ---
 
-### 🛠️ Current Work
+### 🚀 Active Projects
 
-* **Client Engineering:** Architecting bespoke web platforms and digital solutions for private clients.
-* **Scarify:** A high-speed QR ecosystem featuring a custom scanner and generator.
-* **Utility Hub:** A suite of specialized tools including:
-    * **Security:** Password strength analysis, "Have I Been Pwned" integration, and leak detection.
-    * **AI:** Stealth GPT implementation and automated password generation.
-* **OpenAI Events:** Active development in OpenAI-driven initiatives and specialized AI integrations.
+* **Client Engineering:** Developing bespoke, high-performance web platforms for private clients.
+* **Scarify:** Architecting a high-speed QR ecosystem with a custom scanner and generator.
+* **OpenAI Events:** Actively building and integrating advanced AI solutions in community-driven events.
+* **Utility Suite:** Engineering tools for security and productivity, including:
+    * **Security:** Password strength analysis and "Have I Been Pwned" integration.
+    * **AI:** Stealth GPT implementation and custom automation.
 
 ---
 
@@ -31,11 +31,15 @@ I build high-performance web and mobile applications, specializing in OpenAI int
 
 ---
 
-### 📊 Contribution Activity
+### ⚡ Development Status
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justnight&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://img.shields.io/badge/Status-Active_Building-7289DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_For-Client_Work-5865F2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Remote-404EED?style=for-the-badge" />
 </p>
+
+> **Note:** Most of my current engineering work is hosted in private repositories for clients. Check out [justnight.xyz](https://justnight.xyz) for my latest live deployments.
 
 ---
 
